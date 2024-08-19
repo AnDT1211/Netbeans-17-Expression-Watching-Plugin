@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: EcUtPlugin
+OpenIDE-Module-Localizing-Bundle: EcUtPlugin/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 3.5.2
+
